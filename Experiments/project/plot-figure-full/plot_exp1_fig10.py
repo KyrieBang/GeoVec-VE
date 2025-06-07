@@ -85,7 +85,7 @@ if __name__ == "__main__":
     # get the subfig results of L1 dataset in fig.10
     L1_path = "../../Datasets/linestring/L1"
     L1_type = "linestring"
-    L1_fig_path = "../outputs/fig10/L1.png"
+    L1_fig_path = "../outputs/full/fig10/L1.png"
     L1_min_len = 200
     L1_max_len = 600
     L1_min_level = 11
@@ -95,7 +95,7 @@ if __name__ == "__main__":
     # get the subfig results of L2 dataset in fig.10
     L2_path = "../../Datasets/linestring/L2"
     L2_type = "linestring"
-    L2_fig_path = "../outputs/fig10/L2.png"
+    L2_fig_path = "../outputs/full/fig10/L2.png"
     L2_min_len = 200
     L2_max_len = 600
     L2_min_level = 7
@@ -105,7 +105,7 @@ if __name__ == "__main__":
     # get the subfig results of L3 dataset in fig.10
     L3_path = "../../Datasets/linestring/L3"
     L3_type = "linestring"
-    L3_fig_path = "../outputs/fig10/L3.png"
+    L3_fig_path = "../outputs/full/fig10/L3.png"
     L3_min_len = 200
     L3_max_len = 600
     L3_min_level = 7
@@ -115,7 +115,7 @@ if __name__ == "__main__":
     # get the subfig results of A1 dataset in fig.10
     A1_path = "../../Datasets/polygon/A1"
     A1_type = "polygon"
-    A1_fig_path = "../outputs/fig10/A1.png"
+    A1_fig_path = "../outputs/full/fig10/A1.png"
     A1_min_len = 300
     A1_max_len = 700
     A1_min_level = 10
@@ -125,7 +125,7 @@ if __name__ == "__main__":
     # get the subfig results of A2 dataset in fig.10
     A2_path = "../../Datasets/polygon/A2"
     A2_type = "polygon"
-    A2_fig_path = "../outputs/fig10/A2.png"
+    A2_fig_path = "../outputs/full/fig10/A2.png"
     A2_min_len = 300
     A2_max_len = 700
     A2_min_level = 8

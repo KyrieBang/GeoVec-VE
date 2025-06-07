@@ -98,23 +98,23 @@ if __name__ == "__main__":
     # get the results of L2 dataset
     L2_path = "../../Datasets/linestring/L2"
     L2_type = "linestring"
-    L2_fig_path = "../outputs/fig16/L2.png"
+    L2_fig_path = "../outputs/full/fig16/L2.png"
     generateResult(L2_path, L2_type, L2_fig_path, "(b) $L_2$")
 
     # get the results of L3 dataset
     L3_path = "../../Datasets/linestring/L3"
     L3_type = "linestring"
-    L3_fig_path = "../outputs/fig16/L3.png"
+    L3_fig_path = "../outputs/full/fig16/L3.png"
     generateResult(L3_path, L3_type, L3_fig_path, "(c) $L_3$")
 
     # get the results of L4 dataset
     L4_path = "../../Datasets/linestring/L4"
     L4_type = "linestring"
-    L4_fig_path = "../outputs/fig16/L4.png"
+    L4_fig_path = "../outputs/full/fig16/L4.png"
     generateResult(L4_path, L4_type, L4_fig_path, "(d) $L_4$")
     
     # get the results of A3 dataset
     A3_path = "../../Datasets/polygon/A3"
     A3_type = "polygon"
-    A3_fig_path = "../outputs/fig16/A3.png"
+    A3_fig_path = "../outputs/full/fig16/A3.png"
     generateResult(A3_path, A3_type, A3_fig_path, "(e) $A_3$")

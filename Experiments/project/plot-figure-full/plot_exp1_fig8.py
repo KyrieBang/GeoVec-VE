@@ -93,7 +93,7 @@ if __name__ == "__main__":
     # get the subfig results of P1 dataset in fig.8
     P1_path = "../../Datasets/point/P1"
     P1_type = "point"
-    P1_fig_path = "../outputs/fig8/P1.png"
+    P1_fig_path = "../outputs/full/fig8/P1.png"
     P1_min_level = 11
     P1_max_level = 16
     generateResult(P1_path, P1_type, P1_fig_path, "(a) $P_1$", P1_min_level, P1_max_level)
@@ -101,7 +101,7 @@ if __name__ == "__main__":
     # get the subfig results of P2 dataset in fig.8
     P2_path = "../../Datasets/point/P2"
     P2_type = "point"
-    P2_fig_path = "../outputs/fig8/P2.png"
+    P2_fig_path = "../outputs/full/fig8/P2.png"
     P2_min_level = 10
     P2_max_level = 15
     generateResult(P2_path, P2_type, P2_fig_path, "(b) $P_2$", P2_min_level, P2_max_level)
@@ -109,7 +109,7 @@ if __name__ == "__main__":
     # get the subfig results of P3 dataset in fig.8
     P3_path = "../../Datasets/point/P3"
     P3_type = "point"
-    P3_fig_path = "../outputs/fig8/P3.png"
+    P3_fig_path = "../outputs/full/fig8/P3.png"
     P3_min_level = 7
     P3_max_level = 12
     generateResult(P3_path, P3_type, P3_fig_path, "(c) $P_3$", P3_min_level, P3_max_level)
@@ -117,7 +117,7 @@ if __name__ == "__main__":
     # get the subfig results of P4 dataset in fig.8
     P4_path = "../../Datasets/point/P4"
     P4_type = "point"
-    P4_fig_path = "../outputs/fig8/P4.png"
+    P4_fig_path = "../outputs/full/fig8/P4.png"
     P4_min_level = 6
     P4_max_level = 11
     generateResult(P4_path, P4_type, P4_fig_path, "(d) $P_4$", P4_min_level, P4_max_level)
@@ -125,7 +125,7 @@ if __name__ == "__main__":
     # get the subfig results of L1 dataset in fig.8
     L1_path = "../../Datasets/linestring/L1"
     L1_type = "linestring"
-    L1_fig_path = "../outputs/fig8/L1.png"
+    L1_fig_path = "../outputs/full/fig8/L1.png"
     L1_min_level = 11
     L1_max_level = 16
     generateResult(L1_path, L1_type, L1_fig_path, "(e) $L_1$", L1_min_level, L1_max_level)
@@ -133,7 +133,7 @@ if __name__ == "__main__":
     # get the subfig results of L2 dataset in fig.8
     L2_path = "../../Datasets/linestring/L2"
     L2_type = "linestring"
-    L2_fig_path = "../outputs/fig8/L2.png"
+    L2_fig_path = "../outputs/full/fig8/L2.png"
     L2_min_level = 7
     L2_max_level = 12
     generateResult(L2_path, L2_type, L2_fig_path, "(f) $L_2$", L2_min_level, L2_max_level)
@@ -141,7 +141,7 @@ if __name__ == "__main__":
     # get the subfig results of L3 dataset in fig.8
     L3_path = "../../Datasets/linestring/L3"
     L3_type = "linestring"
-    L3_fig_path = "../outputs/fig8/L3.png"
+    L3_fig_path = "../outputs/full/fig8/L3.png"
     L3_min_level = 7
     L3_max_level = 12
     generateResult(L3_path, L3_type, L3_fig_path, "(g) $L_3$", L3_min_level, L3_max_level)
@@ -149,7 +149,7 @@ if __name__ == "__main__":
     # get the subfig results of A1 dataset in fig.8
     A1_path = "../../Datasets/polygon/A1"
     A1_type = "polygon"
-    A1_fig_path = "../outputs/fig8/A1.png"
+    A1_fig_path = "../outputs/full/fig8/A1.png"
     A1_min_level = 10
     A1_max_level = 15
     generateResult(A1_path, A1_type, A1_fig_path, "(h) $A_1$", A1_min_level, A1_max_level)
@@ -157,7 +157,7 @@ if __name__ == "__main__":
     # get the subfig results of A2 dataset in fig.8
     A2_path = "../../Datasets/polygon/A2"
     A2_type = "polygon"
-    A2_fig_path = "../outputs/fig8/A2.png"
+    A2_fig_path = "../outputs/full/fig8/A2.png"
     A2_min_level = 8
     A2_max_level = 13
     generateResult(A2_path, A2_type, A2_fig_path, "(i) $A_2$", A2_min_level, A2_max_level)
