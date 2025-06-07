@@ -85,7 +85,7 @@ if __name__ == "__main__":
     # get the subfig results of P1 dataset in fig.9
     P1_path = "../../Datasets/point/P1"
     P1_type = "point"
-    P1_fig_path = "../outputs/fig9/P1.png"
+    P1_fig_path = "../outputs/simple/fig9/P1.png"
     P1_min_count = 600
     P1_max_count = 1000
     P1_min_level = 11
@@ -95,7 +95,7 @@ if __name__ == "__main__":
     # get the subfig results of P2 dataset in fig.9
     P2_path = "../../Datasets/point/P2"
     P2_type = "point"
-    P2_fig_path = "../outputs/fig9/P2.png"
+    P2_fig_path = "../outputs/simple/fig9/P2.png"
     P2_min_count = 600
     P2_max_count = 1000
     P2_min_level = 10
@@ -105,7 +105,7 @@ if __name__ == "__main__":
     # get the subfig results of P3 dataset in fig.9
     P3_path = "../../Datasets/point/P3"
     P3_type = "point"
-    P3_fig_path = "../outputs/fig9/P3.png"
+    P3_fig_path = "../outputs/simple/fig9/P3.png"
     P3_min_count = 600
     P3_max_count = 1000
     P3_min_level = 7
@@ -115,7 +115,7 @@ if __name__ == "__main__":
     # get the subfig results of P4 dataset in fig.9
     P4_path = "../../Datasets/point/P4"
     P4_type = "point"
-    P4_fig_path = "../outputs/fig9/P4.png"
+    P4_fig_path = "../outputs/simple/fig9/P4.png"
     P4_min_count = 600
     P4_max_count = 1000
     P4_min_level = 6
@@ -125,7 +125,7 @@ if __name__ == "__main__":
     # get the subfig results of L1 dataset in fig.9
     L1_path = "../../Datasets/linestring/L1"
     L1_type = "linestring"
-    L1_fig_path = "../outputs/fig9/L1.png"
+    L1_fig_path = "../outputs/simple/fig9/L1.png"
     L1_min_count = 600
     L1_max_count = 1000
     L1_min_level = 11
@@ -135,7 +135,7 @@ if __name__ == "__main__":
     # get the subfig results of L2 dataset in fig.9
     L2_path = "../../Datasets/linestring/L2"
     L2_type = "linestring"
-    L2_fig_path = "../outputs/fig9/L2.png"
+    L2_fig_path = "../outputs/simple/fig9/L2.png"
     L2_min_count = 600
     L2_max_count = 1000
     L2_min_level = 7
@@ -145,7 +145,7 @@ if __name__ == "__main__":
     # get the subfig results of A1 dataset in fig.9
     A1_path = "../../Datasets/polygon/A1"
     A1_type = "polygon"
-    A1_fig_path = "../outputs/fig9/A1.png"
+    A1_fig_path = "../outputs/simple/fig9/A1.png"
     A1_min_count = 1800
     A1_max_count = 2200
     A1_min_level = 10
@@ -155,7 +155,7 @@ if __name__ == "__main__":
     # get the subfig results of A2 dataset in fig.9
     A2_path = "../../Datasets/polygon/A2"
     A2_type = "polygon"
-    A2_fig_path = "../outputs/fig9/A2.png"
+    A2_fig_path = "../outputs/simple/fig9/A2.png"
     A2_min_count = 1800
     A2_max_count = 2200
     A2_min_level = 8

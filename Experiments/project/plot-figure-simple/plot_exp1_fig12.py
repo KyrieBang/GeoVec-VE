@@ -85,7 +85,7 @@ if __name__ == "__main__":
     # get the subfig results of P1 dataset in fig.12
     P1_path = "../../Datasets/point/P1"
     P1_type = "point"
-    P1_fig_path = "../outputs/fig12/P1.png"
+    P1_fig_path = "../outputs/simple/fig12/P1.png"
     P1_min_ann = 0.01
     P1_max_ann = 0.03
     P1_min_level = 11
@@ -95,7 +95,7 @@ if __name__ == "__main__":
     # get the subfig results of P2 dataset in fig.12
     P2_path = "../../Datasets/point/P2"
     P2_type = "point"
-    P2_fig_path = "../outputs/fig12/P2.png"
+    P2_fig_path = "../outputs/simple/fig12/P2.png"
     P2_min_ann = 0.01
     P2_max_ann = 0.03
     P2_min_level = 10
@@ -105,7 +105,7 @@ if __name__ == "__main__":
     # get the subfig results of P3 dataset in fig.12
     P3_path = "../../Datasets/point/P3"
     P3_type = "point"
-    P3_fig_path = "../outputs/fig12/P3.png"
+    P3_fig_path = "../outputs/simple/fig12/P3.png"
     P3_min_ann = 0.01
     P3_max_ann = 0.03
     P3_min_level = 7
@@ -115,7 +115,7 @@ if __name__ == "__main__":
     # get the subfig results of P4 dataset in fig.12
     P4_path = "../../Datasets/point/P4"
     P4_type = "point"
-    P4_fig_path = "../outputs/fig12/P4.png"
+    P4_fig_path = "../outputs/simple/fig12/P4.png"
     P4_min_ann = 0.01
     P4_max_ann = 0.03
     P4_min_level = 6
@@ -125,7 +125,7 @@ if __name__ == "__main__":
     # get the subfig results of L1 dataset in fig.12
     L1_path = "../../Datasets/linestring/L1"
     L1_type = "linestring"
-    L1_fig_path = "../outputs/fig12/L1.png"
+    L1_fig_path = "../outputs/simple/fig12/L1.png"
     L1_min_ann = 0.02
     L1_max_ann = 0.04
     L1_min_level = 11
@@ -135,7 +135,7 @@ if __name__ == "__main__":
     # get the subfig results of L2 dataset in fig.12
     L2_path = "../../Datasets/linestring/L2"
     L2_type = "linestring"
-    L2_fig_path = "../outputs/fig12/L2.png"
+    L2_fig_path = "../outputs/simple/fig12/L2.png"
     L2_min_ann = 0.02
     L2_max_ann = 0.04
     L2_min_level = 7
@@ -145,7 +145,7 @@ if __name__ == "__main__":
     # get the subfig results of A1 dataset in fig.12
     A1_path = "../../Datasets/polygon/A1"
     A1_type = "polygon"
-    A1_fig_path = "../outputs/fig12/A1.png"
+    A1_fig_path = "../outputs/simple/fig12/A1.png"
     A1_min_ann = 0.01
     A1_max_ann = 0.03
     A1_min_level = 10
@@ -155,7 +155,7 @@ if __name__ == "__main__":
     # get the subfig results of A2 dataset in fig.12
     A2_path = "../../Datasets/polygon/A2"
     A2_type = "polygon"
-    A2_fig_path = "../outputs/fig12/A2.png"
+    A2_fig_path = "../outputs/simple/fig12/A2.png"
     A2_min_ann = 0.01
     A2_max_ann = 0.03
     A2_min_level = 8

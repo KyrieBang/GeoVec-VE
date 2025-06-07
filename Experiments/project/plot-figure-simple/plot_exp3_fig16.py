@@ -98,17 +98,17 @@ if __name__ == "__main__":
     # get the results of P4 dataset
     P4_path = "../../Datasets/point/P4"
     P4_type = "point"
-    P4_fig_path = "../outputs/fig16/P4.png"
+    P4_fig_path = "../outputs/simple/fig16/P4.png"
     generateResult(P4_path, P4_type, P4_fig_path, "(a) $P_4$")
 
     # get the results of L2 dataset
     L2_path = "../../Datasets/linestring/L2"
     L2_type = "linestring"
-    L2_fig_path = "../outputs/fig16/L2.png"
+    L2_fig_path = "../outputs/simple/fig16/L2.png"
     generateResult(L2_path, L2_type, L2_fig_path, "(b) $L_2$")
     
     # get the results of A2 dataset
     A2_path = "../../Datasets/polygon/A2"
     A2_type = "polygon"
-    A2_fig_path = "../outputs/fig16/A2.png"
+    A2_fig_path = "../outputs/simple/fig16/A2.png"
     generateResult(A2_path, A2_type, A2_fig_path, "(e) $A_2$")

@@ -175,7 +175,7 @@ if __name__ == "__main__":
 
 
     # plot the results
-    plotFig13("../outputs/fig13/fig13.png", total_time_list, speed_list)
+    plotFig13("../outputs/simple/fig13/fig13.png", total_time_list, speed_list)
 
     all_time_df = pd.DataFrame({'P1':P1_time_list, 'P2':P2_time_list, 'P3':P3_time_list, 'P4':P4_time_list, 'L1':L1_time_list, 'L2':L2_time_list, 'A1':A1_time_list, 'A2':A2_time_list})
-    plotFig14("../outputs/fig14/fig14.png", all_time_df)
+    plotFig14("../outputs/simple/fig14/fig14.png", all_time_df)

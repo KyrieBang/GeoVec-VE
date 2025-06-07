@@ -85,7 +85,7 @@ if __name__ == "__main__":
     # get the subfig results of A1 dataset in fig.11
     A1_path = "../../Datasets/polygon/A1"
     A1_type = "polygon"
-    A1_fig_path = "../outputs/fig11/A1.png"
+    A1_fig_path = "../outputs/simple/fig11/A1.png"
     A1_min_area = 3
     A1_max_area = 7
     A1_min_level = 10
@@ -95,7 +95,7 @@ if __name__ == "__main__":
     # get the subfig results of A2 dataset in fig.11
     A2_path = "../../Datasets/polygon/A2"
     A2_type = "polygon"
-    A2_fig_path = "../outputs/fig11/A2.png"
+    A2_fig_path = "../outputs/simple/fig11/A2.png"
     A2_min_area = 3
     A2_max_area = 7
     A2_min_level = 8

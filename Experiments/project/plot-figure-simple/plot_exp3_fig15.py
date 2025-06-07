@@ -159,4 +159,4 @@ if __name__ == "__main__":
 
     
     # plot the results
-    plotFig15("../outputs/fig15/fig15.png", PATD_time_list, GeoSparkViz_time_list)
+    plotFig15("../outputs/simple/fig15/fig15.png", PATD_time_list, GeoSparkViz_time_list)
