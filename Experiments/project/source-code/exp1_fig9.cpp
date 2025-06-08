@@ -84,7 +84,7 @@ bool getShpFiles(string data_path, vector<string> &shp_files){
     }
     
     // find the .shp file from the folder
-    for (const auto& entry: fs::directory_iterator(data_path)){
+    for (const auto& entry: fs::recursive_directory_iterator(data_path)){
         if (entry.is_regular_file() && entry.path().extension() == ".shp") {
             shp_files.push_back(entry.path().string());
         }
