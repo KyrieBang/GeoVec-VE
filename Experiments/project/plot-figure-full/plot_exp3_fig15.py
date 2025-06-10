@@ -142,7 +142,7 @@ if __name__ == "__main__":
     GeoSparkViz_time_list[5] = L2_total_time
 
     # get the results of L3 dataset
-    L3_path = "../../Datasets/linestring/L3"
+    L3_path = "../../Datasets/linestring/L3/L3"
     L3_type = "linestring"
     L3_total_time = generateResult(L3_path, L3_type)
     PATD_time_list[6] = L3_total_time
@@ -150,7 +150,7 @@ if __name__ == "__main__":
     GeoSparkViz_time_list[6] = L3_total_time
 
     # get the results of L4 dataset
-    L4_path = "../../Datasets/linestring/L4"
+    L4_path = "../../Datasets/linestring/L4/L4"
     L4_type = "linestring"
     L4_total_time = generateResult(L4_path, L4_type)
     PATD_time_list[7] = L4_total_time
@@ -174,7 +174,7 @@ if __name__ == "__main__":
     GeoSparkViz_time_list[9] = A2_total_time
 
     # get the results of A3 dataset
-    A3_path = "../../Datasets/polygon/A3"
+    A3_path = "../../Datasets/polygon/A3/A3"
     A3_type = "polygon"
     A3_total_time = generateResult(A3_path, A3_type)
     PATD_time_list[10] = A3_total_time
